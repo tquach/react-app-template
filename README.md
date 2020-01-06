@@ -1,4 +1,5 @@
 # React App Template
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a8fab4c2-a881-4cc1-a25d-077c55011ec4/deploy-status)](https://app.netlify.com/sites/peaceful-jang-0b0b53/deploys)
 
 Fully-baked React Application with all the scaffolding and build toolchain. 
 
