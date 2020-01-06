@@ -5,7 +5,7 @@ Fully-baked React Application with all the scaffolding and build toolchain.
 - React 16.x
 - React Router 4.x
 
-This is mostly for my own projects as I do not like but if you want a more sophistacted scaffolding app feel free to check out [Create React App](https://github.com/facebook/create-react-app) or [Gatsby](https://www.gatsbyjs.org/).
+This is mostly for my own projects as I like my apps more streamlined and slimmed down but if you want a more sophistacted scaffolding app feel free to check out [Create React App](https://github.com/facebook/create-react-app) or [Gatsby](https://www.gatsbyjs.org/).
 
 # Dependencies
 
