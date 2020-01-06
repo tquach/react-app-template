@@ -1,0 +1,18 @@
+// Global font family stack
+$font-family: 'Open Sans', sans-serif;
+
+// Base text size for application
+$font-base-size: 14px;
+
+*, 
+html, 
+body {
+    font-family: $font-family !important;
+    font-size: $font-base-size;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+// .. add remaining typography here

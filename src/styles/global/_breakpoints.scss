@@ -1,0 +1,12 @@
+$breakpoints: (
+  sm: 768px,
+  med: 1024px,
+  lg: 1280px
+) !default;
+
+// Respond to a specific breakpoint variable.
+@mixin respond-to($breakpoint) {
+  @media (min-width: map-get($map: $breakpoints, $key: $breakpoint)) { 
+    @content; 
+  }
+}
